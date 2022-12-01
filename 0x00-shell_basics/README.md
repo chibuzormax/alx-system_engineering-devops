@@ -7,3 +7,4 @@ A script to crteate a symbol link
 A script that copies HTML files
 A script that moves all files begining with an uppercase letter to a directory
 A script that cleans Emacs
+A script that creates directories
