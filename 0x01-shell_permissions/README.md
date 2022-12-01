@@ -3,3 +3,4 @@ Printing who am I
 A script that prints all the groups the current user is part of
 A script to change the owner of a file
 A script that creates an empty file
+A script that adds execute permission to the owner of a file
