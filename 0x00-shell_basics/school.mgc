@@ -1,2 +1,2 @@
-#!/bin/bash
-0 search/School SCHOOL File containing "SCHOOL"
+0	string SCHOOL School data
+!:mime School
