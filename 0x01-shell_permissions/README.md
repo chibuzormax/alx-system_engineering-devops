@@ -8,3 +8,4 @@ A script that adds execute permission to owner & group owner and red permissioon
 A script to add execution permission to all
 James bond task
 John doe task
+Mirrow permissions task
