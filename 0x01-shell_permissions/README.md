@@ -13,3 +13,4 @@ Directories permission
 Creating a directory with permissions
 A script to change group owner
 Changing owner and group
+Symbolic links task
