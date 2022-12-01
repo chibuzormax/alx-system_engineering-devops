@@ -4,3 +4,4 @@ A script that changes the working directory to the previous one
 A script that lists all files including hidden files
 A script that prints the type of file named iamafile
 A script to crteate a symbol link
+A script that copies HTML files
