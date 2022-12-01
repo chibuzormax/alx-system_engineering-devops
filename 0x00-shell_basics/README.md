@@ -1,2 +1,3 @@
 A script to delete the file Betty
 A script to remove my first directory
+A script that changes the working directory to the previous one
