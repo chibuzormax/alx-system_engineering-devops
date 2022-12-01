@@ -9,3 +9,4 @@ A script to add execution permission to all
 James bond task
 John doe task
 Mirrow permissions task
+Directories permission
