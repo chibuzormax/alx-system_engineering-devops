@@ -1,1 +1,1 @@
-A script that creates a directory in temp directory
+A script to move Betty in my first directory
