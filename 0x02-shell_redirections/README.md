@@ -7,3 +7,4 @@ A script to display last 10 lines of /etc/passwd
 # A script that displays the third line of a file
 #It is a good file that cuts iron without making a noise
 # Save current state of directory
+# A script to duplicate last line
